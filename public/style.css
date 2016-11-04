@@ -1,0 +1,25 @@
+body {
+  padding: 50px;
+}
+#chat-room {
+  display: none;
+}
+#chat {
+  border: 1px solid #CCC;
+  height: 400px;
+  margin-bottom: 10px;
+  padding: 10px;
+  overflow: auto;
+}
+#chat ul {
+  margin: 0;
+}
+#chat ul li {
+  padding-bottom: 5px;
+  margin-bottom: 5px;
+  list-style: none;
+}
+.update {
+  text-align: center;
+  color: grey;
+}
